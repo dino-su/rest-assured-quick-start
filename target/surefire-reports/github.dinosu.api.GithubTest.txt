@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: github.dinosu.api.GithubTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.618 s - in github.dinosu.api.GithubTest
